@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+abstract: "Static and dynamic contextual embedding for AutoML in text classification tasks"
+authors:
+  - given-names: "Parisa"
+    family-names: "Safikhani"
+    email: "safikhani@dzhw.eu"
+    affiliation: "The German Centre for Higher Education Research and Science Studies (DZHW), University of Magdeburg"
+  - given-names: "David"
+    family-names: "Broneske"
+    email: "broneske@dzhw.eu"
+    affiliation: "The German Centre for Higher Education Research and Science Studies (DZHW), University of Magdeburg"
+repository-code: "https://github.com/yourusername/StaticDynamic-BERT-AutoPyTorch"
+abstract: "Implementation of StaticBERT Auto-PyTorch and DynamicBERT Auto-PyTorch, novel approaches that integrate static and dynamically fine-tuned BERT embeddings into the Auto-PyTorch framework for binary and multi-class text classification tasks."
+keywords:
+  - AutoML
+  - NLP
+  - Text classification
+  - BERT
+  - Auto-PyTorch
+  - LLM
+  - Hyperparameter Optimization
+  - Binary Classification
+  - Multi-class Classification
+  - Meta-learning
+  - AutoNLP
+  - Multi-domain Adaptation
+  - Contextual Embedding
+version: 0.1.0
+date-released: "2024-03-14"
+license: MIT
+references:
+  - type: article
+    authors:
+      - given-names: "Parisa"
+        family-names: "Safikhani"
+      - given-names: "David"
+        family-names: "Broneske"
+    title: "Static and dynamic contextual embedding for AutoML in text classification tasks"
+    journal: "Proceedings of ICNLP"
+    year: 2024 
