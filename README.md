@@ -12,7 +12,7 @@ This work introduces two novel approaches for enhancing AutoML in text classific
 
 ## Paper
 
-This implementation is based on our paper "Static and dynamic contextual embedding for AutoML in text classification tasks" published at ICNLP. [Paper Link]
+This implementation is based on our paper "Static and dynamic contextual embedding for AutoML in text classification tasks" published at ICNLP. [(https://ieeexplore.ieee.org/abstract/document/11108687)]
 
 ## Features
 
@@ -89,16 +89,13 @@ text,label
 
 ## Citation
 
-If you use this code in your research, please cite our paper:
 
-```bibtex
+@inproceedings{safikhani2025static,
+  title={Static and Dynamic Contextual Embedding for AutoML in Text Classification Tasks},
+  author={Safikhani, Parisa and Broneske, David},
+  booktitle={2025 7th International Conference on Natural Language Processing (ICNLP)},
+  pages={292--301},
+  year={2025},
+  organization={IEEE}
+}
 
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-We would like to express our gratitude to Syed Muhammad Laique Abbas for his valuable contributions to this research. 
